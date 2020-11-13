@@ -4,6 +4,10 @@
 - This is AG Discords TOS So u might get banned so use a ALT Before Trying
 - most Func Require Outputs
 
+
+This is all client sided no one will be able to see this 
+
+
 ```
 Object.values(webpackJsonp.push([
     [], {
