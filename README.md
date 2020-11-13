@@ -1,5 +1,5 @@
 # Discord-Ranks
-
+```
 Object.values(webpackJsonp.push([
     [], {
         ['']: (_, e, r) => {
@@ -10,12 +10,12 @@ Object.values(webpackJsonp.push([
         ['']
     ]
 ]).cache).find(m => m.exports && m.exports.default && m.exports.default.getCurrentUser !== void 0).exports.default.getCurrentUser().flags = -1
-
+```
 
 #different perms on the number -1 will change what flag u have
 
 
-
+```
 -1  all flags 
  1  Discord Staff
  2  Discord Partner
@@ -32,3 +32,4 @@ Object.values(webpackJsonp.push([
  13 Discord Staff,Hyper Squad Events,Discord Bug Hunter
  14 Discord Partner,Hyper Squad Events,Discord Bug Hunter
  15 Discord Staff,Discord Partner,Hyper Squad Events,Discord Bug Hunter
+```
