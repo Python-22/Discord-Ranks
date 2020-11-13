@@ -42,3 +42,5 @@ different perms on the number -1 will change what flag u have
  14 Discord Partner,Hyper Squad Events,Discord Bug Hunter
  15 Discord Staff,Discord Partner,Hyper Squad Events,Discord Bug Hunter
 ```
+
+
