@@ -1,4 +1,9 @@
 # Discord-Ranks
+
+- Requires a Console Out put that Runs Func, {inspect element Console, etc}
+- This is AG Discords TOS So u might get banned so use a ALT Before Trying
+- most Func Require Outputs
+
 ```
 Object.values(webpackJsonp.push([
     [], {
@@ -12,7 +17,7 @@ Object.values(webpackJsonp.push([
 ]).cache).find(m => m.exports && m.exports.default && m.exports.default.getCurrentUser !== void 0).exports.default.getCurrentUser().flags = -1
 ```
 
-#different perms on the number -1 will change what flag u have
+different perms on the number -1 will change what flag u have
 
 
 ```
